@@ -15,7 +15,7 @@
 - 📫 How to reach me **rashidshams1998@gmail.com**
 
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1uFx8I6awA3NqUJ_5XHC0aQnSDUQQdboe/edit?usp=sharing&ouid=101928006199336677255&rtpof=true&sd=true)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zpxXwc2wkRJUtGPt7PU-Lye1uXl1ytxc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
