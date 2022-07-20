@@ -1,15 +1,19 @@
-![Masterhead](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
+                                             ![Masterhead](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
 <h1 align="center">Hi 👋, I'm Rashid Shams</h1>
 <h3 align="center">I am a PhD student in Civil and Environmental Engineering department at University of Southern California(USC),Los Angeles. I am passionate to learn about application of AI and ML to solving seismic hazard related problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://acropolis-wp-content-uploads.s3.us-west-1.amazonaws.com/2019/02/hero.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidshams&label=Profile%20views&color=0e75b6&style=flat" alt="rashidshams" /> </p>
 
+
 - 🌱 I’m currently learning **Python,Machine Learning and Deep Learning**
+
 
 - 💬 Ask me about **MATLAB,Python**
 
+
 - 📫 How to reach me **rashidshams1998@gmail.com**
+
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1uFx8I6awA3NqUJ_5XHC0aQnSDUQQdboe/edit?usp=sharing&ouid=101928006199336677255&rtpof=true&sd=true](https://docs.google.com/document/d/1uFx8I6awA3NqUJ_5XHC0aQnSDUQQdboe/edit?usp=sharing&ouid=101928006199336677255&rtpof=true&sd=true)
 
