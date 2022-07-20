@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rashidshams1998@gmail.com**
 
-- 📄 Know about my experiences [C:\Users\rashi\OneDrive - University of Southern California\USC_AdmissionDocs](C:\Users\rashi\OneDrive - University of Southern California\USC_AdmissionDocs)
+- 📄 Know about my experiences [C:\Users\rashi\OneDrive - University of Southern California\USC_AdmissionDocs(https://docs.google.com/document/d/1uFx8I6awA3NqUJ_5XHC0aQnSDUQQdboe/edit?usp=sharing&ouid=101928006199336677255&rtpof=true&sd=true))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
