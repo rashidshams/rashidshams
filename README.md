@@ -1,4 +1,4 @@
-![Masterhead](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
+![Masterhead](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)(https://c.tenor.com/SJvWE3jqYtQAAAAC/logo-batman.gif)
 <h1 align="center">Hi 👋, I'm Rashid Shams</h1>
 <h3 align="center">I am a PhD student in Civil and Environmental Engineering department at University of Southern California(USC),Los Angeles. I am passionate to learn about applications of AI and ML for solving seismic hazard related problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://acropolis-wp-content-uploads.s3.us-west-1.amazonaws.com/2019/02/hero.gif">
