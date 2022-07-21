@@ -28,3 +28,27 @@
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidshams&show_icons=true&locale=en&layout=compact" alt="rashidshams" /></p>
+
+<h1 align="center">Some Resources</h1>
+
+<h3 align="right">Python and ML</h3>
+<h4 align="right">Video Resources</h4>
+`video: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw`
+`video: https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG`
+`video: https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME`
+`video: https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi`
+
+[I'm an inline-style link](https://matplotlib.org/stable/tutorials/introductory/usage.html)
+[Data Science Projects - Google Drive](https://drive.google.com/drive/folders/1XdPbyAc9iWml0fPPNX91Yq3BRwkZAG2M)
+[Keras](https://keras.io/api/)
+
+<h3 align="right">Engineering Seismology and Geotechnical Earthquake Engineering Softwares and Codes</h3>
+[ZMAP](https://github.com/CelsoReyes/zmap7/blob/master/README.md)
+[R-CRISIS](http://www.r-crisis.com/)
+[OpenHVSR](https://www.samuelbignardi.com/en/blog/openhvsr-imaging-subsurface-2d3d-elastic-properties-through-multiple-hvsr-modeling-and)
+[Geopsy](https://www.geopsy.org/)
+[DEEPSOIL](http://deepsoil.cee.illinois.edu/)
+[GM_Tools](https://www.risksciences.ucla.edu/nhr3/gmtools#RCTC)
+[Earthquake Simulation Codes](http://www.daveboore.com/software_online.html)
+
+
