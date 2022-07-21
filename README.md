@@ -34,6 +34,10 @@
 <h3 align="center">Python and ML</h3>
 <h4 align="left">Video Resources</h4>
 
+<figure class="video_container">
+  <iframe src="[https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=1)" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 -`video: https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=1`
 
 -`video: https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG`
