@@ -34,6 +34,7 @@
 <h3 align="center">Python and ML</h3>
 <h4 align="left">Video Resources</h4>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
+
 - [Machine Learning](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=1)
 
 - [Machine Learning Theory](https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG)
