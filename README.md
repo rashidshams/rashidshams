@@ -31,24 +31,36 @@
 
 <h1 align="center">Some Resources</h1>
 
-<h3 align="right">Python and ML</h3>
-<h4 align="right">Video Resources</h4>
-`video: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw`
-`video: https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG`
-`video: https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME`
-`video: https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi`
+<h3 align="left">Python and ML</h3>
+<h4 align="left">Video Resources</h4>
+⋅⋅*`video: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw`
 
-[I'm an inline-style link](https://matplotlib.org/stable/tutorials/introductory/usage.html)
-[Data Science Projects - Google Drive](https://drive.google.com/drive/folders/1XdPbyAc9iWml0fPPNX91Yq3BRwkZAG2M)
-[Keras](https://keras.io/api/)
+⋅⋅*`video: https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG`
 
-<h3 align="right">Engineering Seismology and Geotechnical Earthquake Engineering Softwares and Codes</h3>
-[ZMAP](https://github.com/CelsoReyes/zmap7/blob/master/README.md)
-[R-CRISIS](http://www.r-crisis.com/)
-[OpenHVSR](https://www.samuelbignardi.com/en/blog/openhvsr-imaging-subsurface-2d3d-elastic-properties-through-multiple-hvsr-modeling-and)
-[Geopsy](https://www.geopsy.org/)
-[DEEPSOIL](http://deepsoil.cee.illinois.edu/)
+⋅⋅*`video: https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME`
+
+⋅⋅*`video: https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi`
+
+⋅⋅*[matplotlib](https://matplotlib.org/stable/tutorials/introductory/usage.html)
+
+⋅⋅*[Data Science Projects - Google Drive](https://drive.google.com/drive/folders/1XdPbyAc9iWml0fPPNX91Yq3BRwkZAG2M)
+
+⋅⋅*[Keras](https://keras.io/api/)
+
+<h3 align="center">Engineering Seismology and Geotechnical Earthquake Engineering Softwares and Codes</h3>
+
+⋅⋅*[ZMAP](https://github.com/CelsoReyes/zmap7/blob/master/README.md)
+
+⋅⋅*[R-CRISIS](http://www.r-crisis.com/)
+
+⋅⋅*[OpenHVSR](https://www.samuelbignardi.com/en/blog/openhvsr-imaging-subsurface-2d3d-elastic-properties-through-multiple-hvsr-modeling-and)
+
+⋅⋅*[Geopsy](https://www.geopsy.org/)
+
+⋅⋅*[DEEPSOIL](http://deepsoil.cee.illinois.edu/)
+
 [GM_Tools](https://www.risksciences.ucla.edu/nhr3/gmtools#RCTC)
-[Earthquake Simulation Codes](http://www.daveboore.com/software_online.html)
+
+⋅⋅*[Earthquake Simulation Codes](http://www.daveboore.com/software_online.html)
 
 
