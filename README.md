@@ -30,7 +30,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidshams&show_icons=true&locale=en&layout=compact" alt="rashidshams" /></p>
 
 <h1 align="center">Some Resources</h1>
-<img align="center" alt="Coding" width="400" src="https://acropolis-wp-content-uploads.s3.us-west-1.amazonaws.com/2019/02/hero.gif">
 
 <h3 align="center">Python and ML</h3>
 <h4 align="left">Video Resources</h4>
@@ -77,6 +76,7 @@
 - [Statistical Seismology](http://geophysics.eas.gatech.edu/people/bsullivan/tutorial/StatisticalSeismology.htm#part1_1)
 
 <h3 align="center">Linux and Earthqauke Data Processing</h3>
+<img align="right" alt="Coding" width="400" src="https://phoneky.co.uk/thumbs/screensavers/down/logo-brands/ubuntu_h3yny6ci.gif">
 
 - [A Basic Guide to Seismological Data Analysis and processing by Rashid](https://docs.google.com/document/d/1A2j8kchDha2Lfsj5OMzj25wZLXxaJXB9/edit?usp=sharing&ouid=101928006199336677255&rtpof=true&sd=true)
 
@@ -103,6 +103,9 @@
 - [Seismometer Instrument Response Tutorial](https://www.jakewalter.net/sacresponse.html)
 
 <h3 align="center">GIS and Databases</h3>
+<img align="right" alt="Coding" width="200" src="https://images.squarespace-cdn.com/content/v1/53b80ff5e4b07eed85d72756/1572643786921-I5UDW680CMHM8EF3AFHP/arcgis-pro.jpeg">
+<img align="right" alt="Coding" width="200" src="https://pbs.twimg.com/profile_images/858603658564513794/KgoQRQa6_400x400.jpg">
+
 
 - [PEER](https://peer.berkeley.edu/research/data-sciences/databases)
 
