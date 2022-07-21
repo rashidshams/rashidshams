@@ -31,7 +31,7 @@
 
 <h1 align="center">Some Resources</h1>
 
-<h3 align="left">Python and ML</h3>
+<h3 align="center">Python and ML</h3>
 <h4 align="left">Video Resources</h4>
 
 *`video: https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=1`
@@ -50,18 +50,18 @@
 
 <h3 align="center">Engineering Seismology and Geotechnical Earthquake Engineering Softwares and Codes</h3>
 
-*[ZMAP](https://github.com/CelsoReyes/zmap7/blob/master/README.md)
+1.[ZMAP](https://github.com/CelsoReyes/zmap7/blob/master/README.md)
 
-*[R-CRISIS](http://www.r-crisis.com/)
+2.[R-CRISIS](http://www.r-crisis.com/)
 
-*[OpenHVSR](https://www.samuelbignardi.com/en/blog/openhvsr-imaging-subsurface-2d3d-elastic-properties-through-multiple-hvsr-modeling-and)
+3.[OpenHVSR](https://www.samuelbignardi.com/en/blog/openhvsr-imaging-subsurface-2d3d-elastic-properties-through-multiple-hvsr-modeling-and)
 
-*[Geopsy](https://www.geopsy.org/)
+4.[Geopsy](https://www.geopsy.org/)
 
-*[DEEPSOIL](http://deepsoil.cee.illinois.edu/)
+5.[DEEPSOIL](http://deepsoil.cee.illinois.edu/)
 
-*[GM_Tools](https://www.risksciences.ucla.edu/nhr3/gmtools#RCTC)
+6.[GM_Tools](https://www.risksciences.ucla.edu/nhr3/gmtools#RCTC)
 
-*[Earthquake Simulation Codes](http://www.daveboore.com/software_online.html)
+7.[Earthquake Simulation Codes](http://www.daveboore.com/software_online.html)
 
 
