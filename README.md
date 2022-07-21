@@ -76,7 +76,7 @@
 - [Statistical Seismology](http://geophysics.eas.gatech.edu/people/bsullivan/tutorial/StatisticalSeismology.htm#part1_1)
 
 <h3 align="center">Linux and Earthqauke Data Processing</h3>
-<img align="right" alt="Coding" width="400" src="https://phoneky.co.uk/thumbs/screensavers/down/logo-brands/ubuntu_h3yny6ci.gif">
+<img align="right" alt="Coding" width="200" src="https://phoneky.co.uk/thumbs/screensavers/down/logo-brands/ubuntu_h3yny6ci.gif">
 
 - [A Basic Guide to Seismological Data Analysis and processing by Rashid](https://docs.google.com/document/d/1A2j8kchDha2Lfsj5OMzj25wZLXxaJXB9/edit?usp=sharing&ouid=101928006199336677255&rtpof=true&sd=true)
 
