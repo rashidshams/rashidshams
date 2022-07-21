@@ -33,34 +33,35 @@
 
 <h3 align="left">Python and ML</h3>
 <h4 align="left">Video Resources</h4>
-⋅⋅*`video: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw`
 
-⋅⋅*`video: https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG`
+*`video: https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=1`
 
-⋅⋅*`video: https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME`
+*`video: https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG`
 
-⋅⋅*`video: https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi`
+*`video: https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME`
 
-⋅⋅*[matplotlib](https://matplotlib.org/stable/tutorials/introductory/usage.html)
+*`video: https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi`
 
-⋅⋅*[Data Science Projects - Google Drive](https://drive.google.com/drive/folders/1XdPbyAc9iWml0fPPNX91Yq3BRwkZAG2M)
+*[matplotlib](https://matplotlib.org/stable/tutorials/introductory/usage.html)
 
-⋅⋅*[Keras](https://keras.io/api/)
+*[Data Science Projects - Google Drive](https://drive.google.com/drive/folders/1XdPbyAc9iWml0fPPNX91Yq3BRwkZAG2M)
+
+*[Keras](https://keras.io/api/)
 
 <h3 align="center">Engineering Seismology and Geotechnical Earthquake Engineering Softwares and Codes</h3>
 
-⋅⋅*[ZMAP](https://github.com/CelsoReyes/zmap7/blob/master/README.md)
+*[ZMAP](https://github.com/CelsoReyes/zmap7/blob/master/README.md)
 
-⋅⋅*[R-CRISIS](http://www.r-crisis.com/)
+*[R-CRISIS](http://www.r-crisis.com/)
 
-⋅⋅*[OpenHVSR](https://www.samuelbignardi.com/en/blog/openhvsr-imaging-subsurface-2d3d-elastic-properties-through-multiple-hvsr-modeling-and)
+*[OpenHVSR](https://www.samuelbignardi.com/en/blog/openhvsr-imaging-subsurface-2d3d-elastic-properties-through-multiple-hvsr-modeling-and)
 
-⋅⋅*[Geopsy](https://www.geopsy.org/)
+*[Geopsy](https://www.geopsy.org/)
 
-⋅⋅*[DEEPSOIL](http://deepsoil.cee.illinois.edu/)
+*[DEEPSOIL](http://deepsoil.cee.illinois.edu/)
 
-[GM_Tools](https://www.risksciences.ucla.edu/nhr3/gmtools#RCTC)
+*[GM_Tools](https://www.risksciences.ucla.edu/nhr3/gmtools#RCTC)
 
-⋅⋅*[Earthquake Simulation Codes](http://www.daveboore.com/software_online.html)
+*[Earthquake Simulation Codes](http://www.daveboore.com/software_online.html)
 
 
