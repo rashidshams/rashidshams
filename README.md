@@ -50,7 +50,8 @@
 - [Keras](https://keras.io/api/)
 
 <h3 align="center">Engineering Seismology and Geotechnical Earthquake Engineering Softwares and Codes</h3>
-<img align="right" alt="Coding" width="400" src="https://scpr.brightspotcdn.com/dims4/default/37e08b3/2147483647/strip/true/crop/2500x1500+0+0/resize/792x475!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F1e%2F08%2Fe88c8f9844cbbfc47b792ae0c41c%2Fep1.gif">
+<img align="right" alt="Coding" width="200" src="https://scpr.brightspotcdn.com/dims4/default/37e08b3/2147483647/strip/true/crop/2500x1500+0+0/resize/792x475!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F1e%2F08%2Fe88c8f9844cbbfc47b792ae0c41c%2Fep1.gif">
+<img align="right" alt="Coding" width="200" src="https://www.suse.com/c/wp-content/uploads/2018/10/Open-Source-Software-.jpg">
 
 - [ZMAP](https://github.com/CelsoReyes/zmap7/blob/master/README.md)
 
