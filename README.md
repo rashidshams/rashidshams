@@ -34,10 +34,6 @@
 <h3 align="center">Python and ML</h3>
 <h4 align="left">Video Resources</h4>
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=1" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 -`video: https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=1`
 
 -`video: https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG`
@@ -80,6 +76,12 @@
 
 <h3 align="center">Linux and Earthqauke Data Processing</h3>
 
+-[A Basic Guide to Seismological Data Analysis and processing by Rashid](https://docs.google.com/document/d/1A2j8kchDha2Lfsj5OMzj25wZLXxaJXB9/edit?usp=sharing&ouid=101928006199336677255&rtpof=true&sd=true)
+
+-[SEISAN Instalation Guide](https://docs.google.com/document/d/1En9EFjstHnrGV6557abeM0cQ7EoBWpRL/edit?usp=sharing&ouid=101928006199336677255&rtpof=true&sd=true)
+
+-[Processing Earthquake Data by Jens Havskov](https://drive.google.com/file/d/1-jzd7M18c6XV2X8wYr-ECa5xJAGJONeL/view?usp=sharing)
+
 -[SAC Tutorial](http://geophysics.eas.gatech.edu/classes/SAC/)(http://moodle.glg.muohio.edu/mikeb/content/users/brudzimr/SAC/index.html)
 
 -[Bash Scripting](https://iasbs.ac.ir/~aghods/tutorials/tutorial_bash_for_geophysicist/bash-for-geophysicist.html)
@@ -98,6 +100,8 @@
 
 -[Seismometer Instrument Response Tutorial](https://www.jakewalter.net/sacresponse.html)
 
+
+
 <h3 align="center">GIS and Databases</h3>
 
 -[PEER](https://peer.berkeley.edu/research/data-sciences/databases)
@@ -110,16 +114,11 @@
 
 -[COSMOS Earthqauke Database](https://www.strongmotioncenter.org/vdc/scripts/default.plx)
 
--[GMTED Satelite Data](https://topotools.cr.usgs.gov/gmted_viewer/viewer.htm)
+- [GMTED Satelite Data](https://topotools.cr.usgs.gov/gmted_viewer/viewer.htm)
 
--[BHUVAN India](https://bhuvan-app3.nrsc.gov.in/data/download/index.php#)
+- [BHUVAN India](https://bhuvan-app3.nrsc.gov.in/data/download/index.php#)
 
--[DEM Download UCSD](https://topex.ucsd.edu/WWW_html/mar_topo.html)
+- [DEM Download UCSD](https://topex.ucsd.edu/WWW_html/mar_topo.html)
 
 -[
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
