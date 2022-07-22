@@ -77,6 +77,8 @@
 
 - [Statistical Seismology](http://geophysics.eas.gatech.edu/people/bsullivan/tutorial/StatisticalSeismology.htm#part1_1)
 
+- [Processing PEER NGA motion database using Python](https://www.linkedin.com/pulse/converting-at2-file-from-peer-nga-database-1d-array-simple-hutabarat)
+
 <h3 align="center">Linux and Earthqauke Data Processing</h3>
 <img align="right" alt="Coding" width="200" src="https://phoneky.co.uk/thumbs/screensavers/down/logo-brands/ubuntu_h3yny6ci.gif">
 
